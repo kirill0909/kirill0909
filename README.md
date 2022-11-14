@@ -1,5 +1,9 @@
 # Kirill Korunov (@kirillkorunov)
 
+* 💻 Go Developer
+* ❤️‍🔥 Mainly focused on Backed & Information Security
+* 🌎 LinkedIn | Telegram: @kirillkorunov
+
 <!--
 **kirill0909/kirill0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
