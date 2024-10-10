@@ -1,7 +1,7 @@
 # Kirill Korunov (@kirillkorunov)
 
-* 💻 Go Developer
-* ❤️‍🔥 Mainly focused on Backend & Information Security
+* 💻 Backend Developer
+* ❤️‍🔥 Mainly focused on Backend & System Development
 * 🌎 LinkedIn | Telegram: @kirillkorunov
 
 <!--
